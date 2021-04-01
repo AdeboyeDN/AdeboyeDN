@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🥺🥺
 
-My name is Adeboye Daniel popularly referred to has Developer ola,I am just 17 years old an I ha one year experience with Django and Python 
+My name is Adeboye Daniel popularly referred to has DeveloperOla,I am just 17 years old and I have one year experience with Django and Python 
 
 Here are some ideas to get you started:
 
