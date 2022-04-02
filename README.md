@@ -28,6 +28,9 @@ My name is Daniel Adeboye,I am a **Developer Advocate** and a **Software Develop
 
 Right now enjoying:
 
-Python
-Golang
-Javascript
+<ul>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>Golang</li>
+  <li>DevRel</li>
+</ul>  
