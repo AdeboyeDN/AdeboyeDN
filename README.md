@@ -24,7 +24,7 @@
   </h1>
 </div>
 
-My name is Daniel Adeboye,I am a **Developer Advocate** and a **Software Developer** 😎, yes that is what i love doing 
+My name is Daniel Adeboye,I am a **Developer Advocate** and a **Software Developer** 😎, yes that is what i love doing.
 
 **Right now enjoying**:
 
