@@ -17,6 +17,8 @@
       <img src="https://img.shields.io/badge/hashnode-blue?style=for-the-badge&logo=hashode&logoColor=white" alt="hashnode Badge"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=AdeboyeDN&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 ### Hi there
