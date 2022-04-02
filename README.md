@@ -26,7 +26,7 @@
 
 My name is Daniel Adeboye,I am a **Developer Advocate** and a **Software Developer** 😎, yes that is what i love doing 
 
-Right now enjoying:
+**Right now enjoying**:
 
 <ul>
   <li>Python</li>
