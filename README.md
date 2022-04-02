@@ -1,4 +1,7 @@
-### Hi there 👋🥺🥺
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+### Hi there
 
 My name is Adeboye Daniel popularly referred to has DeveloperOla,I am just 17 years old and I have one year experience with Django and Python 
 
