@@ -33,4 +33,6 @@ My name is Daniel Adeboye,I am a **Developer Advocate** and a **Software Develop
   <li>Javascript</li>
   <li>Golang</li>
   <li>DevRel</li>
+  <li>CI/CD</li>
+  <li>Web3(Not fully foused)</li>
 </ul>  
