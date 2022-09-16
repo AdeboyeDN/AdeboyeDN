@@ -34,5 +34,4 @@ My name is Daniel Adeboye, I am a **Developer Advocate**, a **Software Developer
   <li>Golang</li>
   <li>DevRel</li>
   <li>CI/CD</li>
-  <li>Web3(Not fully foused)</li>
 </ul>  
