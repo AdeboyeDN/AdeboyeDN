@@ -24,7 +24,9 @@
   </h1>
 </div>
 
-My name is Daniel Adeboye, I am a **Developer Advocate**, a **Software Developer** 😎, Creator of [obbkit](https://github.com/Onboardbase/obbkit/) and [farmpeer](https://farmpeer.com), yes that is what i love doing.
+I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer, I excel at communicating complex concepts and technologies to a wide range of audiences. My strong problem-solving skills, self-motivation, adaptability, and initiative have helped me succeed in a variety of roles, including Developer relations, and Software Engineering. I have proven experience in developing in multiple languages, including Python, JavaScript, and Golang.
+
+I am committed to providing constructive feedback and improvements to my work, and I have an eye for industry best practices. In addition to writing programs and developer advocacy, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
 
 **Right now enjoying**:
 
@@ -35,3 +37,9 @@ My name is Daniel Adeboye, I am a **Developer Advocate**, a **Software Developer
   <li>DevRel</li>
   <li>CI/CD</li>
 </ul>  
+
+**OSS project**:
+
+
+Creator of [ObbkitCLI](https://github.com/Onboardbase/obbkit/)
+
