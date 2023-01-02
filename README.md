@@ -28,14 +28,16 @@ I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer
 
 I am committed to providing constructive feedback and improvements to my work, and I have an eye for industry best practices. In addition to writing programs and developer advocacy, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
 
-**Right now enjoying**:
+**Currently enjoying**:
 
 <ul>
   <li>Python</li>
   <li>Javascript</li>
-  <li>Golang</li>
+  <li>Go</li>
   <li>DevRel</li>
   <li>CI/CD</li>
+  <li>Cloud</li>
+  <li>DevSecOps</li>
 </ul>  
 
 **OSS project**:
