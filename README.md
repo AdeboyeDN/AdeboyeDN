@@ -42,8 +42,10 @@ I am committed to providing constructive feedback and improvements to my work, a
 
 **OSS project**:
 
+<ul>
+  <li><a href="https://github.com/Onboardbase/obbkit/">Obbkit CLI</a></li>
+  <li><a href="https://github.com/PipeOpsHQ/pipeops-documentation">PipeOps Documentation</a></li>
+</ul>  
 
-[ObbkitCLI](https://github.com/Onboardbase/obbkit/)
-[PipeOps Documentation](https://github.com/PipeOpsHQ/pipeops-documentation)
 
 
