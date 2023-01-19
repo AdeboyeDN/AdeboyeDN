@@ -40,7 +40,7 @@ I am committed to providing constructive feedback and improvements to my work, a
   <li>DevSecOps</li>
 </ul>  
 
-**OSS project**:
+**OSS projects**:
 
 <ul>
   <li><a href="https://github.com/Onboardbase/obbkit/">Obbkit CLI</a></li>
