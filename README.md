@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges align="center"">
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/AdeboyeDN/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -24,11 +24,15 @@
   </h1>
 </div>
 
+<p>
 I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer, I excel at communicating complex concepts and technologies to a wide range of audiences. My strong problem-solving skills, self-motivation, adaptability, and initiative have helped me succeed in a variety of roles, including Developer relations, and Software Engineering. I have proven experience in developing in multiple languages, including Python, JavaScript, and Golang.
+</p>
 
+<p>
 I am committed to providing constructive feedback and improvements to my work, and I have an eye for industry best practices. In addition to writing programs and developer advocacy, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
+</p>
 
-**Currently enjoying**:
+<h3>Currently enjoying:</h3>
 
 <ul>
   <li>Python</li>
@@ -40,12 +44,9 @@ I am committed to providing constructive feedback and improvements to my work, a
   <li>DevSecOps</li>
 </ul>  
 
-**OSS projects**:
+<h3>OSS projects:</h3>
 
 <ul>
   <li><a href="https://github.com/Onboardbase/obbkit/">Obbkit CLI</a></li>
   <li><a href="https://github.com/PipeOpsHQ/pipeops-documentation">PipeOps Documentation</a></li>
-</ul>  
-
-
-
+</ul>
