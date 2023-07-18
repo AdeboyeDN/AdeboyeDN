@@ -18,18 +18,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AdeboyeDN&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 <p>
-I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer, I excel at communicating complex concepts and technologies to a wide range of audiences. My strong problem-solving skills, self-motivation, adaptability, and initiative have helped me succeed in a variety of roles, including Developer relations, and Software Engineering. I have proven experience in developing in multiple languages, including Python, JavaScript, and Golang.
-</p>
-
-<p>
-I am committed to providing constructive feedback and improvements to my work, and I have an eye for industry best practices. In addition to writing programs and developer advocacy, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
+                               Software & Developer Relations Engineer 🛠️. Advocating for Africas DevTools Space.
 </p>
 
 <h3>Currently enjoying:</h3>
