@@ -21,24 +21,11 @@
 </div>
 
 <p>
-                               Software & Developer Relations Engineer 🛠️. Advocating for Africas DevTools Space.
+<div align="center">
+  <h2>Software & Developer Relations Engineer 🛠️. Advocating for Africa's DevTools Space.</h2><br>
+</div>
+I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer. My expertise lies in effectively communicating complex concepts and technologies to diverse audiences. With strong problem-solving skills, self-motivation, adaptability, and initiative, I have excelled in various roles, including Developer Relations and Software Engineering. My experience extends to multiple programming languages, including Python, JavaScript, and Golang.
 </p>
-
-<h3>Currently enjoying:</h3>
-
-<ul>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li>Go</li>
-  <li>DevRel</li>
-  <li>CI/CD</li>
-  <li>Cloud</li>
-  <li>DevSecOps</li>
-</ul>  
-
-<h3>OSS projects:</h3>
-
-<ul>
-  <li><a href="https://github.com/Onboardbase/obbkit/">OnboardbaseKit</a></li>
-  <li><a href="https://github.com/PipeOpsHQ/pipeops-documentation">PipeOps Documentation</a></li>
-</ul>
+<p>
+I am committed to providing constructive feedback and adhering to industry best practices in my work. In addition to writing code and advocating for developers, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
+</p>
