@@ -22,7 +22,7 @@
 
 <p>
 <div align="center">
-  <h2>Software & Developer Relations Engineer 🛠️. Advocating for Africa's DevTools Space.</h2><br>
+  <h2>Software & Developer Relations Engineer.</h2><br>
 </div>
 I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer. My expertise lies in effectively communicating complex concepts and technologies to diverse audiences. With strong problem-solving skills, self-motivation, adaptability, and initiative, I have excelled in various roles, including Developer Relations and Software Engineering. My experience extends to multiple programming languages, including Python, JavaScript, and Golang.
 </p>
