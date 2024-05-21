@@ -24,7 +24,7 @@
 <div align="center">
   <h2>Software & Developer Relations Engineer.</h2><br>
 </div>
-I'm a goal-oriented and customer-driven Developer Advocate and Software Engineer. My expertise lies in effectively communicating complex concepts and technologies to diverse audiences. With strong problem-solving skills, self-motivation, adaptability, and initiative, I have excelled in various roles, including Developer Relations and Software Engineering. My experience extends to multiple programming languages, including Python, JavaScript, and Golang.
+I am a software engineer and a developer relations engineer passionate about helping developers and engineering teams build and ship secure softwares. Currently building Gitsecure an AI-powered developer security platform that scans, detects, monitors, and rectifies code vulnerabilities with precision and speed. 
 </p>
 <p>
 I am committed to providing constructive feedback and adhering to industry best practices in my work. In addition to writing code and advocating for developers, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
