@@ -26,6 +26,3 @@
 </div>
 I am a software engineer and a developer relations engineer passionate about helping developers and engineering teams build and ship secure softwares. Currently building Gitsecure an AI-powered developer security platform that scans, detects, monitors, and rectifies code vulnerabilities with precision and speed. 
 </p>
-<p>
-I am committed to providing constructive feedback and adhering to industry best practices in my work. In addition to writing code and advocating for developers, I have a passion for collaborating with clients and teams to generate creative solutions and achieve mutually beneficial outcomes.
-</p>
