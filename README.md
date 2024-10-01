@@ -24,5 +24,5 @@
 <div align="center">
   <h2>Software & Developer Relations Engineer.</h2><br>
 </div>
-I am a software engineer and developer relations engineer dedicated to helping developers and engineering teams. I have worked on and built products used by thousands of developers. Currently, I am building Gitsecure, an AI-powered developer security platform designed to find, prioritize, and fix code vulnerabilities in real-time. Additionally, I am the creator of Wasps.dev, an AI-powered code review tool integrated into developers' IDEs.
+I am a Software Engineer and Developer Relations Engineer dedicated to helping developers and engineering teams. I have worked on and built products used by tens of thousands of developers. I have built Gitsecure, an AI-powered developer security platform designed to find, prioritize, and fix code vulnerabilities in real-time. Additionally, I am also the creator of Wasps.dev, an AI-powered code review tool integrated into developers' IDEs.
 </p>
