@@ -16,7 +16,9 @@
 
 <p>
 <div align="center">
-  <h2>Software & Developer Relations Engineer.</h2><br>
+  <h2>Hey! I'm Daniel Adeboye!</h2><br>
 </div>
-I am a Software Engineer and Developer Relations Engineer dedicated to helping developers and engineering teams. I have worked on and built products used by tens of thousands of developers. I have built Gitsecure, an AI-powered developer security platform designed to find, prioritize, and fix code vulnerabilities in real-time. Additionally, I am also the creator of Wasps.dev, an AI-powered code review tool integrated into developers' IDEs.
+I am a Software Engineer, Technical Writer, and Developer Relations Engineer with over four years of proven experience helping developers and engineering teams build better software. I have contributed to and built products used by tens of thousands of developers worldwide.<br><br>
+
+I built Gitsecure, an AI-powered security platform that detects, prioritizes, and fixes code and cloud vulnerabilities in real-time. Additionally, I created Wasps.dev, an AI code review tool seamlessly integrated into developers' IDEs, providing instant feedback to improve code quality.
 </p>
