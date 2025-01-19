@@ -38,7 +38,7 @@ I built Gitsecure, an AI-powered security platform that detects, prioritizes, an
 </div>
 
 ### :fire: GH Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adeboyedn&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdeboyeDN)](https://git.io/streak-stats)
 
 ### :writing_hand: Blog Posts :
 
