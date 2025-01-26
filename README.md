@@ -43,6 +43,7 @@ I built Gitsecure, an AI-powered security platform that detects, prioritizes, an
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Bring Your Own Cloud (BYOC): What is it and why it's the future of deployment](https://northflank.com/blog/bring-your-own-cloud-byoc-future-of-enterprise-saas-deployment)
 - [Manually Optimize Deployments on Railway](https://blog.railway.com/p/comparing-deployment-methods-in-railway)
 - [How to Build a Python API from Scratch with FastAPI](https://dev.to/adeboyedn/how-to-build-a-python-api-from-scratch-with-fastapi-2p92)
 - [Linux Environment Variables: A Simple Guide](https://onboardbase.com/blog/linux-environment-variables/)
