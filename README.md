@@ -37,12 +37,10 @@ I built Gitsecure, an AI-powered security platform that detects, prioritizes, an
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: GH Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdeboyeDN)](https://git.io/streak-stats)
-
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [ECS (Elastic Container Service): deep dive and alternatives](https://northflank.com/blog/aws-ecs-elastic-container-service-deep-dive-and-alternatives)
 - [Bring Your Own Cloud (BYOC): What is it and why it's the future of deployment](https://northflank.com/blog/bring-your-own-cloud-byoc-future-of-enterprise-saas-deployment)
 - [Manually Optimize Deployments on Railway](https://blog.railway.com/p/comparing-deployment-methods-in-railway)
 - [How to Build a Python API from Scratch with FastAPI](https://dev.to/adeboyedn/how-to-build-a-python-api-from-scratch-with-fastapi-2p92)
